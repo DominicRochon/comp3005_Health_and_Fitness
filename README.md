@@ -1,6 +1,6 @@
 # comp3005_Health_and_Fitness
 
-My project report is here -> 3005FinalProjectReport.pdf
+My project report is 3005FinalProjectReport.pdf
 
 I have other pdf files for diagrams that are also in the repo.
 
